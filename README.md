@@ -63,7 +63,7 @@ SeekUp: ARAL is an integrated platform to enhance education and professional dev
 
 The platform aims to address skills gaps and improve learning outcomes by combining theoretical knowledge with practical experience. It is targeted primarily at Filipino youth aged 15-24, with additional resources for parents, educators, and community organizations.
 
-Technologies Implemented:
+Technologies Implemented:  
 • HTML  
 • CSS  
 • React  
