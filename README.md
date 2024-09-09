@@ -56,18 +56,18 @@ I'm a third-year **BS Computer Science** student at the **University of the Phil
 ### SeekUp: ARAL
 SeekUp: ARAL is an integrated platform to enhance education and professional development. It connects learners with educational resources, mentorship, and real-world application opportunities. This project was made during the 3-day Hooked Unitour Hackathon. Key features include:
 
-• Webinars and Courses: Offers a range of interactive learning paths with certification upon completion.
-• Personalized Mentorship: Provides access to mentors for tailored career and personal growth guidance.
-• Practical Application: Facilitates involvement in community projects and organizational needs to apply learned skills.
-• Progress Tracking: Features dashboards for monitoring user progress, setting goals, and receiving feedback.
+• Webinars and Courses: Offers a range of interactive learning paths with certification upon completion.  
+• Personalized Mentorship: Provides access to mentors for tailored career and personal growth guidance.  
+• Practical Application: Facilitates involvement in community projects and organizational needs to apply learned skills.  
+• Progress Tracking: Features dashboards for monitoring user progress, setting goals, and receiving feedback.  
 
 The platform aims to address skills gaps and improve learning outcomes by combining theoretical knowledge with practical experience. It is targeted primarily at Filipino youth aged 15-24, with additional resources for parents, educators, and community organizations.
 
 Technologies Implemented:
-• HTML
-• CSS
-• React
-• Internet Computer Protocol
+• HTML  
+• CSS  
+• React  
+• Internet Computer Protocol  
 
 ---
 
