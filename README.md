@@ -86,8 +86,4 @@ Technologies Implemented:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
-</p>
-
 <h3 align="center">💻 Let's collab! 💻</h3>
