@@ -1,13 +1,12 @@
 # Marc Doria | Software Engineer & Web3 Enthusiast 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Twitter: YourTwitterHandle](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/MarcD25)
 
 ## 👨‍💻 About Me
 
 I'm a third-year **BS Computer Science** student at the **University of the Philippines Manila** 🎓, passionate about crafting elegant solutions to complex problems. My journey in tech is driven by curiosity and a commitment to continuous learning.
 
-- 🔭 Currently working on: [Your Current Project]
+- 🔭 Currently working on: Resume Website
 - 🌱 Learning: Advanced Data Structures, System Design, and Blockchain Development
 - 👯 Looking to collaborate on: Open-source projects and innovative Web3 initiatives
 - 💬 Ask me about: Algorithms, Software Architecture, and Decentralized Systems
@@ -40,44 +39,42 @@ I'm a third-year **BS Computer Science** student at the **University of the Phil
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcD25&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcD25&layout=compact&theme=radical" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarcD25&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Project Name 1]
-Brief description of the project, technologies used, and its impact.
+### SeekUp: ARAL
+SeekUp: ARAL is an integrated platform to enhance education and professional development. It connects learners with educational resources, mentorship, and real-world application opportunities. This project was made during the 3-day Hooked Unitour Hackathon. Key features include:
 
-### [Project Name 2]
-Another project showcase with key features and technologies.
+• Webinars and Courses: Offers a range of interactive learning paths with certification upon completion.
+• Personalized Mentorship: Provides access to mentors for tailored career and personal growth guidance.
+• Practical Application: Facilitates involvement in community projects and organizational needs to apply learned skills.
+• Progress Tracking: Features dashboards for monitoring user progress, setting goals, and receiving feedback.
 
-### [Project Name 3]
-A third project highlighting your diverse skill set.
+The platform aims to address skills gaps and improve learning outcomes by combining theoretical knowledge with practical experience. It is targeted primarily at Filipino youth aged 15-24, with additional resources for parents, educators, and community organizations.
 
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title of your latest blog post]
-- [Another interesting article you've written]
-- [A technical guide or tutorial]
-<!-- BLOG-POST-LIST:END -->
+Technologies Implemented:
+• HTML
+• CSS
+• React
+• Internet Computer Protocol
 
 ---
 
 ## 💼 What I'm Looking For
 
 - 🔍 **Roles:** Software Engineering Internships, Part-time Development Positions, Technical Writing Gigs
-- 🌐 **Industries:** Fintech, Blockchain, AI/ML, Cloud Computing
+- 🌐 **Industries:** Finance Tech, Blockchain, AI/ML, Cloud Computing, Game Development
 - 🤝 **Collaboration:** Open-source projects, Hackathons, Research opportunities
 
 ---
@@ -85,7 +82,6 @@ A third project highlighting your diverse skill set.
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-doria/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doria.marcjacob@gmail.com)
 
 ---
@@ -94,4 +90,4 @@ A third project highlighting your diverse skill set.
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
-<h3 align="center">💻 Happy Coding! 💻</h3>
+<h3 align="center">💻 Let's collab! 💻</h3>
