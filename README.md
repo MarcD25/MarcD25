@@ -1,6 +1,6 @@
 # Marc Doria | Software Engineer & Web3 Enthusiast 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/MarcD25)
+[![GitHub followers](https://img.shields.io/github/followers/MarcD25?label=Follow&style=social)](https://github.com/MarcD25)
 
 ## 👨‍💻 About Me
 
