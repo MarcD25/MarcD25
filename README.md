@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Web3+Enthusiast;Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;HCI+Specialist;Software+Developer" alt="Typing SVG" />
   
   [![Website](https://img.shields.io/badge/Website-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://marcd25-portfolio.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-doria/)
@@ -13,14 +13,14 @@
 
 ## About Me 👨‍💻
 
-> Third-year **BS Computer Science** student at the **University of the Philippines Manila**, passionate about crafting elegant solutions to complex problems.
+> Fourth-year **BS Computer Science** student at the **University of the Philippines Manila**, passionate about crafting elegant, user-centric solutions to complex problems.
 
-My journey in tech is driven by curiosity and a commitment to continuous learning. I enjoy tackling challenges that push the boundaries of what's possible with code and technology.
+My journey in tech is driven by curiosity and a commitment to continuous learning. I enjoy tackling challenges that push the boundaries of what's possible with code, particularly at the intersection of Artificial Intelligence and Human-Computer Interaction.
 
-- 🔭 **Working on:** Hackathon Project! (AI + Education)
-- 🌱 **Learning:** Ollama, Native Smartphone LLMs, and Blockchain Development
-- 👯 **Looking to collaborate on:** Open-source projects and innovative initiatives on AI or Web3, even both!
-- 💬 **Ask me about:** AI-based Projects, Prompt Engineering, and Decentralized Systems
+- 🔭 **Working on:** Agentic AI & Multimodal Models (Thesis) and the **MyNaga** health suite application.
+- 🌱 **Learning:** Zepp OS app development, Tryton ERP, and managing home AI servers.
+- 👯 **Looking to collaborate on:** Open-source projects, AI-driven HCI solutions, and progressive web apps.
+- 💬 **Ask me about:** Multimodal AI, Human-Computer Interaction, and hackathon strategies (like securing Top 5 at GCash ImaGnation!).
 
 ## Tech Stack & Tools 🛠️
 
@@ -53,26 +53,33 @@ My journey in tech is driven by curiosity and a commitment to continuous learnin
 
 </div>
 
-</div>
+## Milestones & Achievements 🏆
 
-## GitHub Stats 📊
-
-<div align="center">
-  <a href="https://github.com/MarcD25">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcD25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Marc's GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/MarcD25">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcD25&layout=compact&theme=tokyonight&hide_border=true" alt="Marc's Top Languages" height="170" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/MarcD25">
-    <img src="https://github-profile-trophy.vercel.app/?username=MarcD25&theme=nord&column=7&margin-w=15&margin-h=15" alt="Marc's GitHub Trophies" />
-  </a>
-</div>
-
+- 🏆 **Grand Winner** | 1st Naga City Mayoral Hackathon (Team DND)
+- 🏅 **Top 5 Finalist** | GCash ImaGnation Hackathon (Team DND)
+- 🌏 **Study Abroad Alumni** | Chonnam National University, South Korea
+- 💻 **Current Focus** | Building out the *MyNaga* health suite and researching Agentic AI
 ## Featured Projects 🚀
+
+<details>
+<summary><b>MyNaga Health Suite</b></summary>
+
+A comprehensive health suite application developed to improve local healthcare delivery. 
+
+**Key Features:**
+- **Modular Design:** Features specific modules like *NagaAlalay* and *NagaReseta* for targeted healthcare solutions.
+- **User-Centric UI/UX:** Designed with a strong focus on Human-Computer Interaction principles to ensure accessibility for all users.
+</details>
+
+<details>
+<summary><b>Project: Tanda</b></summary>
+
+An automated flashcard generation system powered by multimodal AI.
+
+**Key Features:**
+- **Multimodal Capabilities:** Leverages advanced AI models to process various input types and generate relevant educational materials.
+- **Study Optimization:** Streamlines the learning process by automating the creation of study aids.
+</details>
 
 <details>
 <summary><b>SeekUp: ARAL</b></summary>
@@ -83,16 +90,11 @@ SeekUp: ARAL is an integrated platform to enhance education and professional dev
 - **Webinars and Courses:** Offers a range of interactive learning paths with certification upon completion.
 - **Personalized Mentorship:** Provides access to mentors for tailored career and personal growth guidance.
 - **Practical Application:** Facilitates involvement in community projects and organizational needs to apply learned skills.
-- **Progress Tracking:** Features dashboards for monitoring user progress, setting goals, and receiving feedback.
-
-The platform aims to address skills gaps and improve learning outcomes by combining theoretical knowledge with practical experience. It is targeted primarily at Filipino youth aged 15-24, with additional resources for parents, educators, and community organizations.
 
 **Technologies Implemented:**
-- HTML
-- CSS
-- React
-- Internet Computer Protocol
+- HTML, CSS, React, Internet Computer Protocol
 </details>
+
 
 ## What I'm Looking For 💼
 
@@ -102,7 +104,7 @@ The platform aims to address skills gaps and improve learning outcomes by combin
       <b>🔍 Roles:</b>
     </td>
     <td>
-      Software Engineering Internships, Part-time Development Positions, Technical Writing Gigs
+      International CS Internships (2026), Software Engineering Internships, Technical Roles
     </td>
   </tr>
   <tr>
@@ -110,7 +112,7 @@ The platform aims to address skills gaps and improve learning outcomes by combin
       <b>🌐 Industries:</b>
     </td>
     <td>
-      Finance Tech, Blockchain, AI/ML, Cloud Computing, Game Development
+      AI/ML, Human-Computer Interaction, Cloud Computing, Health Tech
     </td>
   </tr>
   <tr>
@@ -118,7 +120,7 @@ The platform aims to address skills gaps and improve learning outcomes by combin
       <b>🤝 Collaboration:</b>
     </td>
     <td>
-      Open-source projects, Hackathons, Research opportunities
+      Open-source projects, Hackathons, AI Research opportunities
     </td>
   </tr>
 </table>
@@ -134,3 +136,5 @@ The platform aims to address skills gaps and improve learning outcomes by combin
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
 </div>
+
+
