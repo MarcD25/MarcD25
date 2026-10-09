@@ -1,4 +1,4 @@
-﻿# Marc Doria
+# Marc Doria
 
 <div align="center">
   
@@ -17,7 +17,7 @@
 > **BS Computer Science** undergraduate at the **University of the Philippines Manila** (Class of 2026). Building applied AI models, explainable machine learning frameworks, and robust full-stack systems.
 
 - 🏆 **Recent Highlight:** **PH National Champion & Global Finalist (Paris, France)** at **L'Oréal Brandstorm 2026** (Top 0.035% of 380,000+ competitors worldwide).
-- 🔬 **Research:** Accepted **IEEE IISA 2026** full paper on pathway-grouped explainable ML with TreeSHAP.
+- 🔬 **Research:** Published **[IEEE IISA 2026](https://www.computer.org/csdl/proceedings-article/iisa/2026/11705610/2kbuL2WYYo0)** full paper on pathway-grouped explainable ML with TreeSHAP.
 - 🎓 **Undergraduate Thesis:** Completed **ClaimCheck**, a multi-agent framework evaluating citation grounding across vision-language models (VLMs).
 - 🌏 **Global Exposure:** Completed the **MOVE-UP Exchange Program** at **Chonnam National University, South Korea**.
 - 💬 **Ask me about:** Multimodal AI grounding, TreeSHAP/Grad-CAM interpretability, hackathon rapid prototyping, and edge IoT transit.
@@ -26,8 +26,8 @@
 
 ## Key Milestones & Honors 🏆
 
-- 🏆 **PH National Champions & Global Finalists (Paris, France)** | *L’Oréal Brandstorm 2026* (Selected top 135 out of 380,000+ competitors)
-- 📄 **Accepted Conference Paper** | *17th IEEE IISA 2026 Conference* (Pathway-Grouped Explainable ML for Lupus Risk Prediction)
+- 🏆 **[PH National Champions & Global Finalists (Paris, France)](https://www.linkedin.com/posts/aboutgebalbari_brandstorm2026-brandstormph-loraezalforyouth-share-7449719796830724096-tAbN)** | *L’Oréal Brandstorm 2026* (Selected top 135 out of 380,000+ competitors)
+- 📄 **[Published Conference Paper](https://www.computer.org/csdl/proceedings-article/iisa/2026/11705610/2kbuL2WYYo0)** | *17th IEEE IISA 2026 Conference* (Pathway-Grouped Explainable ML for Lupus Risk Prediction)
 - 🥇 **Grand Winner (Health)** | *1st Naga City Mayoral Hackathon 2026* (MyNaga Health Suite)
 - 🏅 **Top 4 Finalist Nationwide** | *GCash ImaGnation Innovation Challenge 2025* (GJeep Smart Public Transit)
 - 🌏 **Academic Exchange Scholar** | *Chonnam National University, South Korea (2024)*
@@ -66,27 +66,34 @@
 
 ## Featured Work & Research 🚀
 
-### 1. L’Oréal Brandstorm 2026: Connected Fragrance Ecosystem *(PH National Champions & Global Finalists)*
+### 1. [L’Oréal Brandstorm 2026: Connected Fragrance Ecosystem](https://www.linkedin.com/posts/aboutgebalbari_brandstorm2026-brandstormph-loraezalforyouth-share-7449719796830724096-tAbN) *(PH National Champions & Global Finalists)*
 - Designed an end-to-end digital-physical fragrance platform representing the Philippines at the Global Finals in Paris, France.
 - Selected among 135 global finalists out of 380,000+ competitors worldwide (top 0.035%).
 - **Stack:** `React` `TypeScript` `Groq` `Mistral AI (Voxtral TTS)` `Node.js`
 
-### 2. [MyNaga Health Suite](https://mynagahealthsuite.netlify.app/) *(Naga City Hackathon Grand Winner)*
+### 2. [AlarmZone: Mission-Based Smartwatch App](https://www.reddit.com/r/amazfit/comments/1rgq7hi/i_built_a_better_alarm_app_for_zepp_os_i_promise/) *(Commercial Zepp OS Application)*
+- Commercial smartwatch application deployed across 106 countries with 1,800+ downloads on the Zepp App Store.
+- Achieved commercial monetization driving a 78.8% checkout rate and +160% QoQ sales growth via multi-lingual App Store Optimization (ASO).
+- **Stack:** `Zepp OS` `TypeScript` `QuickJS` `Jest` `Hardware Sensors` `KiezelPay`
+
+### 3. [MyNaga Health Suite](https://mynagahealthsuite.netlify.app/) *(Naga City Hackathon Grand Winner)*
 - Built an integrated civic health system with digital IDs and voice-to-form medical triage for 155,000+ residents.
 - Streamlined City Health Office intake workflows and improved elderly medication tracking.
 - **Stack:** `React` `Node.js` `Groq` `HuggingFace` `Netlify` `PWA`
 
-### 3. [ClaimCheck: Multimodal GEO & XAI Attribution Engine](https://github.com/MarcD25) *(Completed Undergraduate Thesis)*
+### 4. [ClaimCheck: Multimodal GEO & XAI Attribution Engine](https://github.com/MarcD25) *(Completed Undergraduate Thesis)*
 - Multi-agent framework evaluating citation grounding and hallucination mitigation in vision-language models for AI search.
 - Elevated factual citation support from 47.2% to 86.3% using InternVL2 and Grad-CAM visual attention auditing.
 - **Stack:** `Python` `PyTorch` `Grad-CAM` `InternVL2` `LLaVA-NeXT` `Qwen2-VL` `Gradio`
 
-### 4. [Decoding SLE: Pathway-Grouped Explainable ML](https://github.com/MarcD25) *(IEEE IISA 2026 Accepted Paper)*
-- Full conference paper modeling genomic lupus susceptibility by grouping SNPs into biological pathways.
+### 5. [Decoding SLE: Pathway-Grouped Explainable ML](https://www.computer.org/csdl/proceedings-article/iisa/2026/11705610/2kbuL2WYYo0) *(IEEE IISA 2026 Published Paper)*
+- Full conference paper modeling genomic lupus susceptibility by grouping single-nucleotide polymorphisms (SNPs) into biological pathways.
+- Published in the proceedings of the 17th IEEE IISA 2026 Conference (Track III: Applications - Healthcare).
 - Achieved an AUC-ROC of 0.812 with XGBoost and ranked functional pathways using TreeSHAP attribution.
+- **Paper Link:** [IEEE Computer Society Digital Library (CSDL)](https://www.computer.org/csdl/proceedings-article/iisa/2026/11705610/2kbuL2WYYo0)
 - **Stack:** `Python` `XGBoost` `TreeSHAP` `Scikit-learn` `GWAS Catalog API` `Reactome`
 
-### 5. [GJeep: Modernizing Transit](https://gjeep-livedemo.web.app/) *(GCash ImaGnation Top 4 Nationwide)*
+### 6. [GJeep: Modernizing Transit](https://gjeep-livedemo.web.app/) *(GCash ImaGnation Top 4 Nationwide)*
 - Public transport telemetry system modernizing Philippine commuter jeepneys with LTE tracking and BLE fare payment.
 - Selected Top 4 out of 196 teams in a nationwide fintech innovation sprint.
 - **Stack:** `React` `Firebase` `TypeScript` `BLE` `GCash InnovLabs Sandbox`
