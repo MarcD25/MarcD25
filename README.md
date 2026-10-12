@@ -17,7 +17,7 @@
 > **BS Computer Science** undergraduate at the **University of the Philippines Manila** (Class of 2026). Building applied AI models, explainable machine learning frameworks, and robust full-stack systems.
 
 - 🏆 **Recent Highlight:** **PH National Champion & Global Finalist (Paris, France)** at **L'Oréal Brandstorm 2026** (Top 0.035% of 380,000+ competitors worldwide).
-- 🔬 **Research:** Published **[IEEE IISA 2026](https://www.computer.org/csdl/proceedings-article/iisa/2026/11705610/2kbuL2WYYo0)** full paper on pathway-grouped explainable ML with TreeSHAP.
+- 🔬 **Research:** Published **[IEEE IISA 2026](https://ieeexplore.ieee.org/document/11705610)** full paper on pathway-grouped explainable ML with TreeSHAP.
 - 🎓 **Undergraduate Thesis:** Completed **ClaimCheck**, a multi-agent framework evaluating citation grounding across vision-language models (VLMs).
 - 🌏 **Global Exposure:** Completed the **MOVE-UP Exchange Program** at **Chonnam National University, South Korea**.
 - 💬 **Ask me about:** Multimodal AI grounding, TreeSHAP/Grad-CAM interpretability, hackathon rapid prototyping, and edge IoT transit.
@@ -27,7 +27,7 @@
 ## Key Milestones & Honors 🏆
 
 - 🏆 **[PH National Champions & Global Finalists (Paris, France)](https://www.linkedin.com/posts/aboutgebalbari_brandstorm2026-brandstormph-loraezalforyouth-share-7449719796830724096-tAbN)** | *L’Oréal Brandstorm 2026* (Selected top 135 out of 380,000+ competitors)
-- 📄 **[Published Conference Paper](https://www.computer.org/csdl/proceedings-article/iisa/2026/11705610/2kbuL2WYYo0)** | *17th IEEE IISA 2026 Conference* (Pathway-Grouped Explainable ML for Lupus Risk Prediction)
+- 📄 **[Published Conference Paper](https://ieeexplore.ieee.org/document/11705610)** | *17th IEEE IISA 2026 Conference* (Pathway-Grouped Explainable ML for Lupus Risk Prediction)
 - 🥇 **Grand Winner (Health)** | *1st Naga City Mayoral Hackathon 2026* (MyNaga Health Suite)
 - 🏅 **Top 4 Finalist Nationwide** | *GCash ImaGnation Innovation Challenge 2025* (GJeep Smart Public Transit)
 - 🌏 **Academic Exchange Scholar** | *Chonnam National University, South Korea (2024)*
@@ -86,11 +86,11 @@
 - Elevated factual citation support from 47.2% to 86.3% using InternVL2 and Grad-CAM visual attention auditing.
 - **Stack:** `Python` `PyTorch` `Grad-CAM` `InternVL2` `LLaVA-NeXT` `Qwen2-VL` `Gradio`
 
-### 5. [Decoding SLE: Pathway-Grouped Explainable ML](https://www.computer.org/csdl/proceedings-article/iisa/2026/11705610/2kbuL2WYYo0) *(IEEE IISA 2026 Published Paper)*
+### 5. [Decoding SLE: Pathway-Grouped Explainable ML](https://ieeexplore.ieee.org/document/11705610) *(IEEE IISA 2026 Published Paper)*
 - Full conference paper modeling genomic lupus susceptibility by grouping single-nucleotide polymorphisms (SNPs) into biological pathways.
 - Published in the proceedings of the 17th IEEE IISA 2026 Conference (Track III: Applications - Healthcare).
 - Achieved an AUC-ROC of 0.812 with XGBoost and ranked functional pathways using TreeSHAP attribution.
-- **Paper Link:** [IEEE Computer Society Digital Library (CSDL)](https://www.computer.org/csdl/proceedings-article/iisa/2026/11705610/2kbuL2WYYo0)
+- **Paper Link:** [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/document/11705610)
 - **Stack:** `Python` `XGBoost` `TreeSHAP` `Scikit-learn` `GWAS Catalog API` `Reactome`
 
 ### 6. [GJeep: Modernizing Transit](https://gjeep-livedemo.web.app/) *(GCash ImaGnation Top 4 Nationwide)*
