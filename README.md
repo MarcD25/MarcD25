@@ -6,6 +6,7 @@
   
   [![Website](https://img.shields.io/badge/Portfolio-marc--d.is--a.dev-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://marc-d.is-a.dev/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marc_Doria-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-doria/)
+  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Marc_Doria-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=3przcgsAAAAJ)
   [![University Email](https://img.shields.io/badge/UP_Mail-mgdoria%40up.edu.ph-7B1113?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgdoria@up.edu.ph)
   [![Personal Email](https://img.shields.io/badge/Gmail-doria.marcjacob-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doria.marcjacob@gmail.com)
 
